@@ -1,6 +1,6 @@
 # pgadmin4-docker
 
-Simple Docker compose file for pgAdmin4 web client
+Simple Docker compose file for pgAdmin4 web client. This is a clean and simple workaround for all those having trouble installing pgAdmin on various Linux distributions.
 
 ## Usage
 start with docker-compose up -d
